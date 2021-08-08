@@ -7,7 +7,7 @@ const client = new Discord.Client({
 });
 const { loadCommands } = require('./utils/commands');
 
-client.login("ODczNzM5MzA4MDU2NTg4Mjk4.YQ8zJA.igJNARKFrGjtcbEQkibykvhnXNQ");
+client.login("no :)");
 
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
